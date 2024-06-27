@@ -1,2 +1,3 @@
 # chic-couture
-Fashion website
+
+Fashion responsive website with beautifull design
