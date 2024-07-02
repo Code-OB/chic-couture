@@ -2,5 +2,5 @@
 
 Fashion responsive website with beautifull design
 
-![Chic Couture](/chic-couture/chic-couture.png?raw=true "Chic Couture")
+![Chic Couture](https://github.com/Code-OB/chic-couture/blob/main/screenshot/chic-couture.png?raw=true "Chic Couture")
 
